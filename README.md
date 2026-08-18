@@ -35,3 +35,8 @@ QR Code saved as 'eonsautomation-dev-qrcode.png'
 ## About
 
 This project is part of **EoNs Automation**.
+
+## License
+
+This project is released under the MIT License.  
+For commercial use or custom versions, contact EoNs Automation.
