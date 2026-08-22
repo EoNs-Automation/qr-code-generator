@@ -15,6 +15,9 @@ A simple tool that generates QR codes from text or URLs.
 
 [Try the web version here](https://qr-code-generator-6c457e.netlify.app/)
 
+Also in the EoNs Tools Hub:
+https://tool-hub-f5b755.netlify.app/
+
 ## How to Use (Python)
 
 1. Run the script
